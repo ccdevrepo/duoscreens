@@ -10,9 +10,9 @@ File names: `<device>-<pose or OS>_<orientation>_<screen>.png` and `<device>-<po
 |---|---|---|---|---|
 | iPhone 17, iOS 26.5 | n/a (not foldable) | `iphone17-ios26_portrait_{next,plan-ahead,day}.png` | `iphone17-ios26_landscape_{next,plan-ahead,day}.png` | `iphone17-ios26_video_rotate-portrait-landscape-portrait_tour.mp4` |
 | iPhone Duo, iOS 27.1 | Closed (outer display) | `iphoneduo-closed_portrait_*.png` | `iphoneduo-closed_landscape_*.png` | `iphoneduo-closed_video_rotate-portrait-landscape-portrait_tour.mp4` |
-| iPhone Duo, iOS 27.1 | Partially open (127°, inner display) | `iphoneduo-partially-open_{next,plan-ahead,day}.png` (one orientation) |  | `iphoneduo-partially-open_video_tab-tour.mp4` (tabs, no rotation) |
-| iPhone Duo, iOS 27.1 | Fully open, held landscape (inner display, wide) |  | `iphoneduo-fully-open-landscape_{next,plan-ahead,day}.png` | `iphoneduo-fully-open-landscape_video_tab-tour.mp4` (tabs, no rotation) |
-| iPhone Duo, iOS 27.1 | Fully open, held portrait (inner display, tall; rotated in Device Hub) | `iphoneduo-fully-open-portrait_{next,plan-ahead,day}.png` |  | `iphoneduo-fully-open-portrait_video_tab-tour.mp4` |
+| iPhone Duo, iOS 27.1 | Partially open (127°, inner display) | `iphoneduo-partially-open_{next,plan-ahead,day}.png` (one orientation) | | `iphoneduo-partially-open_video_tab-tour.mp4` (tabs, no rotation) |
+| iPhone Duo, iOS 27.1 | Fully open, held landscape (inner display, wide) | `iphoneduo-fully-open-landscape_{next,plan-ahead,day}.png` | | `iphoneduo-fully-open-landscape_video_tab-tour.mp4` (tabs, no rotation) |
+| iPhone Duo, iOS 27.1 | Fully open, held portrait (inner display, tall; rotated in Device Hub) | `iphoneduo-fully-open-portrait_{next,plan-ahead,day}.png` | | `iphoneduo-fully-open-portrait_video_tab-tour.mp4` (tabs, no rotation) |
 
 Also: `iphoneduo-partially-open_duo-probe_fold-and-camera-regions.png` is the Debug probe in that pose. It reports
 the fold band (blue, x 455–495 of a 951 × 669 pt screen) and camera areas (red), and the hinge at 127°.
